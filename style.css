@@ -5,3 +5,10 @@ h3{
     color:blue;
     font-size:2rem;
 }
+
+div{
+    border: 1px solid green;
+}
+p{
+    font-size:0.5em;
+}
